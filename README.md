@@ -6,12 +6,12 @@ Extension is tested with Magento 1.9.X
 
 ### Installation
 
-Simply copy content of code,design and etc directories to your <mag root>/app (Allow overwrite)
+Simply copy content of code,design and etc directories to your < mag root >/app (Allow overwrite)
 
 Only additional step you should do is clear cache
 
 ```sh
-rm -rf <mg root>/var/cache/*
+rm -rf <mag root>/var/cache/*
 ```
 
 Once you cleared cache relog if you are already logged in and thats it.
