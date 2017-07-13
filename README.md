@@ -1,6 +1,6 @@
 # Extended subscriber Magento
 
-This extension will allow you to require users to enter their First and Last name when subscribing to newsletter.
+This extension will allow you to require users to enter their First and Last name when subscribing to newsletter, but good news are that you can easily customize this and add/change fields.
 
 Extension is tested with Magento 1.9.X
 
